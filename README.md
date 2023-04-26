@@ -5,6 +5,7 @@
 -  Curious and good observer.
 -  Always learning.
 -  Restless for discovering new things.
+-  My personal web: https://osalva.netlify.app/
 
 ## 🔧 Technologies & Tools
 
